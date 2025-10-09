@@ -107,6 +107,7 @@ header, #content, footer {
 }
 iframe {
   max-width:100%;
+  display: block;
 }
 
 /* Menu Links */
